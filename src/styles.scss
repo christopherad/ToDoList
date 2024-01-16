@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+  }
+.btn {
+    color: #000;
+    background-color: #fff;
+    border: 2px solid #cecece;
+    padding: 0.35rem 1rem 0.25rem 1rem;
+    font-size: 1rem;
+  }
+ul{
+    list-style-type:none;
+}
